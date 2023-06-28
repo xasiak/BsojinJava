@@ -10,6 +10,6 @@ public class Exam_TypeTrans1 {
 		double result = dNum * iNum; //iNum의 10 -> 10.0 자동 형변환
 		System.out.println("result : " + result);
 		System.out.println("강제 형 변환 : " + (int)result);
-		System.out.println("강제 형 변환2 : " + (char)65);
+		System.out.println("강제 형 S변환2 : " + (char)65);
 	}
 }

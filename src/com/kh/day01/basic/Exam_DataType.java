@@ -3,11 +3,11 @@ package com.kh.day01.basic;
 public class Exam_DataType {
 	public static void main(String [] args )
 	{
-		// 기본형
-		// boolean 1byte // char 2byte // byte 1byte, short 2byte, int 4byte, long 8byte 
-		// float 4byte, double 8byte
-		// 참조형
-		// String
+//		 기본형
+//		 boolean 1byte // char 2byte // byte 1byte, short 2byte, int 4byte, long 8byte 
+//		 float 4byte, double 8byte
+//		 참조형
+//		 String
 		
 		boolean result = true;
 		
