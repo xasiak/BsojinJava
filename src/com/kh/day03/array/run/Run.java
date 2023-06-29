@@ -16,8 +16,9 @@ public class Run {
 		// 실행방법
 		Exercise_Array1 exArr = new Exercise_Array1();
 //		exArr.exercise1();  //Exercise_Array1 파일 안에 exercise1() 호출
-		exArr.exercise2(); 
+//		exArr.exercise2(); 
 //		exArr.arryCopyExercise(); 
+		exArr.lottoExercise();
 		
 		Exercise_For exFor = new Exercise_For();
 //		exFor.exercise1(); 
