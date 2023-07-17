@@ -31,7 +31,7 @@ public class Exam_JComponent extends JFrame{
 		btn3.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				JButton jb = (JButton)e.getSource();
+				JButton jb = (JButton)e.getSource();	// 이벤트가 발생한 Component(요소)를 나타냄
 				Exam_JComponent frame = (Exam_JComponent)jb.getTopLevelAncestor();
 				frame.setTitle(jb.getX() + ", " + jb.getY());
 			}
